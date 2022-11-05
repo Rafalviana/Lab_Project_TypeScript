@@ -1,10 +1,10 @@
 # Lab_Project_TypeScript
 
-# Desenvolvendo o Dio Bank
+## Desenvolvendo o Dio Bank
 desenvolvido por [Rafael Laurentino Viana](https://linkedin.com/in/rafaviana)
 
 #### Projeto desenvolvido com Fundamentos de typescript
-  - Conceitod Básicos de TypeScript
+  - Conceitos Básicos de TypeScript
   - Programação Orientada a Objetos com TypeScript(POO)
 
 ### Tecnologias
