@@ -1,7 +1,7 @@
 import { CompanyAccount } from './class/CompanyAccount'
 import { DioAccount } from './class/DioAccount'
 import { PeopleAccount } from './class/PeopleAccount'
-import { NewTypePeople } from './class/newTypePeople'
+import { NewTypePeople } from './class/NewTypePeople'
 
 const people = new PeopleAccount('Rafael', 22, 0)
 console.log(' - - - - - People Account - - - - - ')
